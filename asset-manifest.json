@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JakeMa4o/tenzies/static/css/main.5836fbf3.css",
+    "main.js": "/JakeMa4o/tenzies/static/js/main.40cdaffc.js",
+    "index.html": "/JakeMa4o/tenzies/index.html",
+    "main.5836fbf3.css.map": "/JakeMa4o/tenzies/static/css/main.5836fbf3.css.map",
+    "main.40cdaffc.js.map": "/JakeMa4o/tenzies/static/js/main.40cdaffc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5836fbf3.css",
+    "static/js/main.40cdaffc.js"
+  ]
+}
